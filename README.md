@@ -39,5 +39,4 @@ It saves time, reduces errors, and improves animal care.
 - 'Kaggle' – Extra datasets  
 - 'Perplexity AI' – Help in workflow and debugging  
 
----
-🚀 More details and code will be added soon as we build the project.
+
